@@ -12,10 +12,10 @@
 
 ---
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AqayeFarazmehr&show_icons=true&locale=en" alt="SlavPH" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AqayeFarazmehr&show_icons=true&locale=en" alt="aqa" />
 </p>
 
 ---
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AqayeFarazmehr&show_icons=true&locale=en&layout=compact" alt="SlavPH" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AqayeFarazmehr&show_icons=true&locale=en&layout=compact" alt="aqa" />
 </p>
